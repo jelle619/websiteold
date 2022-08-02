@@ -1,0 +1,23 @@
+.hero {
+    width: 100%;
+    max-width: 100vw;
+    height: 100%;
+    max-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(../public/images/comissions/drawing_551_commission_blue_fire.png); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero p {
+    color: white;
+    font-weight: 700;
+    font-size: 3em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
