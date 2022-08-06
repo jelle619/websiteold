@@ -1,8 +1,10 @@
 /*Colour palette*/
 :root {
-    --text-color: white;
-    --accent-color: #149dcc;
-    --background-color: rgb(20, 25, 35);
+    --text-color: rgb(255, 255, 255);
+    --accent-color-light: #DFF6FF;
+    --accent-color: #47B5FF;
+    --accent-color-dark: #1363DF;
+    --background-color: rgb(6, 40, 61);
 }
 
 html,
