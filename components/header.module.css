@@ -4,10 +4,11 @@
     width: 100%;
     display: flex;
     align-items: center;
-    background-color: lightseagreen;
+    background-color: #2565AE;
     padding-left: 0.5em;
     padding-right: 0.5em;
     box-sizing: border-box;
+    color: white;
 }
 
 .header p {

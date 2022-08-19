@@ -22,11 +22,11 @@ export default function Contact() {
         <h1>Welcome, dragon! 🐲</h1>
         <p>My name is Bluefire, pleased to meet you.</p>
         <Image
-        src="/images/comissions/reference.png"
-        height="800"
-        width="1300"
-        layout="responsive"
-      />
+          src="/images/comissions/reference.png"
+          height="800"
+          width="1300"
+          layout="responsive"
+        />
       </Text>
     </Layout>
   );

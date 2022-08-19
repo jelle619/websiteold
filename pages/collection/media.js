@@ -8,8 +8,6 @@ import Text from "../../components/text"
 import Hero from "../../components/hero"
 import Image from "next/image"
 
-import imageReference from "../public/images/comissions/reference.png"
-
 export default function Books() {
   return (
     <Layout>

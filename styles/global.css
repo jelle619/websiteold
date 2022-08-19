@@ -1,9 +1,15 @@
 /*Colour palette*/
 :root {
     --text-color: rgb(255, 255, 255);
+    --anchor-color: #47B5FF;
+
+    --header-background-color: #2565AE;
+    --sidebar-background-color: #0F5298;
+
     --accent-color-light: #DFF6FF;
     --accent-color: #47B5FF;
     --accent-color-dark: #1363DF;
+
     --background-color: rgb(6, 40, 61);
 }
 
