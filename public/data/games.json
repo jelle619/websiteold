@@ -1,6 +1,472 @@
 {
-    "wii": [{
-        "id": 123,
-        "name": "Wii Title"
-    }]
-}
+    "wii": [
+      {
+        "id": "RUUP01",
+        "title": "Animal Crossing: Let's Go to the City"
+      },
+      {
+        "id": "RUHP52",
+        "title": "Bakugan Battle Brawlers"
+      },
+      {
+        "id": "SB6P52",
+        "title": "Bakugan: Defenders of the Core"
+      },
+      {
+        "id": "SEMP4Q",
+        "title": "Disney Epic Mickey"
+      },
+      {
+        "id": "R9DP78",
+        "title": "Drawn to Life: The Next Chapter"
+      },
+      {
+        "id": "RFBP01",
+        "title": "Endless Ocean"
+      },
+      {
+        "id": "R4EP01",
+        "title": "Endless Ocean 2: Adventures of the Deep"
+      },
+      {
+        "id": "SGVPAF",
+        "title": "Go Vacation"
+      },
+      {
+        "id": "SHDP52",
+        "title": "How to Train Your Dragon"
+      },
+      {
+        "id": "SD2P41",
+        "title": "Just Dance 2"
+      },
+      {
+        "id": "RZPP01",
+        "title": "Link's Crossbow Training"
+      },
+      {
+        "id": "RWSP8P",
+        "title": "Mario & Sonic at the Olympic Games"
+      },
+      {
+        "id": "ROLP8P",
+        "title": "Mario & Sonic at the Olympic Winter Games"
+      },
+      {
+        "id": "RMCP01",
+        "title": "Mario Kart Wii"
+      },
+      {
+        "id": "RM8P01",
+        "title": "Mario Party 8"
+      },
+      {
+        "id": "R4QP01",
+        "title": "Mario Strikers Charged Football"
+      },
+      {
+        "id": "RM3P01",
+        "title": "Metroid Prime 3: Corruption"
+      },
+      {
+        "id": "RP4P69",
+        "title": "MySims Party"
+      },
+      {
+        "id": "RGWX41",
+        "title": "Rabbids Go Home"
+      },
+      {
+        "id": "SRIP78",
+        "title": "Rio"
+      },
+      {
+        "id": "R3BP8P",
+        "title": "Samba de Amigo"
+      },
+      {
+        "id": "RBTP8P",
+        "title": "Sega Bass Fishing"
+      },
+      {
+        "id": "SNCP8P",
+        "title": "Sonic Colours"
+      },
+      {
+        "id": "RSVP8P",
+        "title": "Sonic Unleashed"
+      },
+      {
+        "id": "RMGP01",
+        "title": "Super Mario Galaxy"
+      },
+      {
+        "id": "SB4P01",
+        "title": "Super Mario Galaxy 2"
+      },
+      {
+        "id": "R8PP01",
+        "title": "Super Paper Mario"
+      },
+      {
+        "id": "SUWP78",
+        "title": "uDraw Studio"
+      },
+      {
+        "id": "RUQX78",
+        "title": "Up"
+      },
+      {
+        "id": "RWAU78",
+        "title": "WALL•E"
+      },
+      {
+        "id": "RTYP01",
+        "title": "Wii Chess"
+      },
+      {
+        "id": "RFNP01",
+        "title": "Wii Fit"
+      },
+      {
+        "id": "RFPP01",
+        "title": "Wii Fit Plus"
+      },
+      {
+        "id": "R64P01",
+        "title": "Wii Music"
+      },
+      {
+        "id": "SUPP01",
+        "title": "Wii Party"
+      },
+      {
+        "id": "RHAP01",
+        "title": "Wii Play"
+      },
+      {
+        "id": "SC8P01",
+        "title": "Wii Play: Motion"
+      },
+      {
+        "id": "RSPP01",
+        "title": "Wii Sports"
+      },
+      {
+        "id": "RZTP01",
+        "title": "Wii Sports Resort"
+      }
+    ],
+    "gcn": [
+      {
+        "id": "GFDP69",
+        "title": "Freedom Fighters"
+      },
+      {
+        "id": "UGPP01",
+        "title": "Game Boy Player"
+      },
+      {
+        "id": "GYWPE9",
+        "title": "Harvest Moon: A Wonderful Life"
+      },
+      {
+        "id": "GW5P69",
+        "title": "Need for Speed: Carbon"
+      },
+      {
+        "id": "GNDP69",
+        "title": "Need for Speed: Underground"
+      },
+      {
+        "id": "GSNP8P",
+        "title": "Sonic Adventure 2: Battle"
+      },
+      {
+        "id": "GSAP01",
+        "title": "Star Fox Adventures"
+      },
+      {
+        "id": "GMSP01",
+        "title": "Super Mario Sunshine"
+      },
+      {
+        "id": "G6SP7D",
+        "title": "The Legend of Spyro: A New Beginning"
+      },
+      {
+        "id": "GUBP69",
+        "title": "The Urbz: Sims In The City"
+      },
+      {
+        "id": "GTLX52",
+        "title": "True Crime: Streets of LA"
+      },
+      {
+        "id": "GX3P41",
+        "title": "XIII"
+      }
+    ],
+    "3ds": [
+      {
+        "id": "ANGP",
+        "title": "Angry Birds Trilogy"
+      },
+      {
+        "id": "EGDP",
+        "title": "Animal Crossing: New Leaf"
+      },
+      {
+        "id": "ATTP",
+        "title": "Combat of Giants: Dinosaurs 3D"
+      },
+      {
+        "id": "AKDP",
+        "title": "Kid Icarus: Uprising"
+      },
+      {
+        "id": "AGGP",
+        "title": "Luigi’s Mansion 2"
+      },
+      {
+        "id": "A3RP",
+        "title": "Mario & Luigi: Bowser’s Inside Story + Bowser Jr.’s Journey"
+      },
+      {
+        "id": "ATSP",
+        "title": "Mario Party Island Tour"
+      },
+      {
+        "id": "ADQP",
+        "title": "Miitopia"
+      },
+      {
+        "id": "AACP",
+        "title": "New Art Academy"
+      },
+      {
+        "id": "AWAP",
+        "title": "Pilotwings Resort"
+      },
+      {
+        "id": "A2AP",
+        "title": "Pokémon Ultra Sun"
+      },
+      {
+        "id": "BL5P",
+        "title": "Skylanders Superchargers Racing"
+      },
+      {
+        "id": "ASPP",
+        "title": "Skylanders: Spyro’s Adventure"
+      },
+      {
+        "id": "EC6P",
+        "title": "Tomodachi Life"
+      },
+      {
+        "id": "AANP",
+        "title": "Turbo Super Stunt Squad"
+      },
+      {
+        "id": "AWXP",
+        "title": "WarioWare Gold"
+      },
+      {
+        "id": "AYWP",
+        "title": "Yo-Kai Watch"
+      }
+    ],
+    "ps3": [
+      {
+        "id": "BLES00269",
+        "title": "Prototype"
+      },
+      {
+        "id": "BLES00909",
+        "title": "Assassin's Creed: Brotherhood"
+      },
+      {
+        "id": "BLES00659",
+        "title": "Army of Two: The 40th Day"
+      },
+      {
+        "id": "BLES01275",
+        "title": "Battlefield 3"
+      },
+      {
+        "id": "BLES01832",
+        "title": "Battlefield 4"
+      },
+      {
+        "id": "BLES00023",
+        "title": "Blazing Angels: Squadrons of WWII"
+      },
+      {
+        "id": "BLES01945",
+        "title": "Call of Duty: Ghosts"
+      },
+      {
+        "id": "BLES00891",
+        "title": "Driver: San Francisco"
+      },
+      {
+        "id": "BCES00865",
+        "title": "EyePet & Friends"
+      },
+      {
+        "id": "BCES00005",
+        "title": "Formula One: Championship Edition"
+      },
+      {
+        "id": "BCES00569",
+        "title": "Gran Turismo 5"
+      },
+      {
+        "id": "BCES00104",
+        "title": "Gran Turismo 5: Prologue"
+      },
+      {
+        "id": "BCES01893",
+        "title": "Gran Turismo 6"
+      },
+      {
+        "id": "BLES00229",
+        "title": "Grand Theft Auto IV"
+      },
+      {
+        "id": "BLES01807",
+        "title": "Grand Theft Auto V - Atomic Blimp"
+      },
+      {
+        "id": "BCES00081",
+        "title": "Killzone 2"
+      },
+      {
+        "id": "BLES00933",
+        "title": "L.A. Noire"
+      },
+      {
+        "id": "BLES00322",
+        "title": "Mirror's Edge"
+      },
+      {
+        "id": "BCES00129",
+        "title": "MotorStorm: Pacific Rift"
+      },
+      {
+        "id": "BLES00176",
+        "title": "Need for Speed: ProStreet"
+      },
+      {
+        "id": "BLES01894",
+        "title": "Need for Speed: Rivals"
+      },
+      {
+        "id": "BLES00389",
+        "title": "Prince of Persia"
+      },
+      {
+        "id": "BCES00052",
+        "title": "Ratchet & Clank: Tools of Destruction"
+      },
+      {
+        "id": "BCES00226",
+        "title": "Resistance 2"
+      },
+      {
+        "id": "BCES01118",
+        "title": "Resistance 3"
+      },
+      {
+        "id": "BCES00001",
+        "title": "Resistance: Fall of Man"
+      },
+      {
+        "id": "BLES00425",
+        "title": "Sonic Unleashed"
+      },
+      {
+        "id": "BCES00795",
+        "title": "Sports Champions"
+      },
+      {
+        "id": "BCES00065",
+        "title": "Uncharted: Drake's Fortune"
+      },
+      {
+        "id": "BLES00280",
+        "title": "Disney/Pixar WALL-E"
+      },
+      {
+        "id": "BCES01531",
+        "title": "Wonderbook: Book of Spells"
+      }
+    ],
+    "wiiu": [
+      {
+        "id": "BXAP01",
+        "title": "Art Academy: Atelier"
+      },
+      {
+        "id": "BCZP01",
+        "title": "The Legend of Zelda: The Wind Waker HD"
+      },
+      {
+        "id": "AZAP01",
+        "title": "The Legend of Zelda: Twilight Princess HD"
+      },
+      {
+        "id": "AMKP01",
+        "title": "Mario Kart 8"
+      },
+      {
+        "id": "ATWP01",
+        "title": "New Super Mario Bros. U + New Super Luigi U"
+      },
+      {
+        "id": "CNFP01",
+        "title": "Paper Mario: Color Splash"
+      },
+      {
+        "id": "AC3P01",
+        "title": "Pikmin 3"
+      },
+      {
+        "id": "ASCP01",
+        "title": "Scribblenauts Unlimited"
+      },
+      {
+        "id": "AGMP01",
+        "title": "Splatoon"
+      },
+      {
+        "id": "BWFP01",
+        "title": "Star Fox Guard"
+      },
+      {
+        "id": "AFXP01",
+        "title": "Star Fox Zero"
+      },
+      {
+        "id": "ARDP01",
+        "title": "Super Mario 3D World"
+      },
+      {
+        "id": "AMAP01",
+        "title": "Super Mario Maker"
+      },
+      {
+        "id": "AWCP41",
+        "title": "Watch Dogs"
+      },
+      {
+        "id": "ASTP01",
+        "title": "Wii Fit U"
+      },
+      {
+        "id": "AX5D01",
+        "title": "Xenoblade Chronicles X"
+      }
+    ]
+  }

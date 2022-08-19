@@ -3,14 +3,14 @@
 // import Link from 'next/link';
 // import Image from 'next/image';
 
-import Layout from "../components/layout";
-import Text from "../components/text"
-import Hero from "../components/hero"
+import Layout from "../../components/layout";
+import Text from "../../components/text"
+import Hero from "../../components/hero"
 import Image from "next/image"
 
 import imageReference from "../public/images/comissions/reference.png"
 
-export default function Contact() {
+export default function Books() {
   return (
     <Layout>
       {/* <Hero
